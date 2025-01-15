@@ -28,5 +28,3 @@ function alterarStatus(id) {
 
     alugarItem(imagem, botao);
 }
-
-
